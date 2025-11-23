@@ -1,0 +1,21 @@
+{
+  "short_name": "ZenSpace",
+  "name": "ZenSpace AI Interior Designer",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/6122/6122347.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/6122/6122347.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "orientation": "portrait"
+}
